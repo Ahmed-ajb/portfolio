@@ -1,5 +1,4 @@
 **Portfolio**
-Live Preview - [Click Here](https://gurusheshp.vercel.app/)
 
 <br/>
 <div align="center">
