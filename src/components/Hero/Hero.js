@@ -24,7 +24,7 @@ function Hero() {
         <HeroWrapper>
           <HeroLeft>
             <h1>Hi, Ajebli Ahmed</h1>
-            <h5>BI & BIG DATA STUDENT</h5>
+            <h5>IA & DATA STUDENT</h5>
             <p>
               I do data things , with love.
             </p>
