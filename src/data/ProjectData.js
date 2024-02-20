@@ -23,7 +23,7 @@ export const ProjectList = [
     title: "SKIN DISEASE DETECTOR",
     description: "YOUR ARTIFICIAL DOCTOR" ,
     tech_stack: "CNN, jupyter notebooks, Flask ",
-    github_url: "",
+    github_url: "https://github.com/Ahmed-ajb/Towatch_project/blob/main/images/logo/logo.png",
     demo_url: "",
 
   },
