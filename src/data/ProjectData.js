@@ -18,6 +18,15 @@ export const ProjectList = [
     demo_url: "https://github.com/Ahmed-ajb?tab=repositories",
 
   },
+  {
+    img: "https://raw.githubusercontent.com/Ahmed-ajb/Towatch_project/main/images%20pour%20rapport/acceuil%20inde.png",
+    title: "SKIN DISEASE DETECTOR",
+    description: "YOUR ARTIFICIAL DOCTOR" ,
+    tech_stack: "CNN, jupyter notebooks, Flask ",
+    github_url: "",
+    demo_url: "",
+
+  },
 ];
 
 // --------------------------------------- Skills
